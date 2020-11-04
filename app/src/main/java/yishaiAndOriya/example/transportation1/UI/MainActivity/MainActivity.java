@@ -1,8 +1,10 @@
-package yishaiAndOriya.example.transportation1;
+package yishaiAndOriya.example.transportation1.UI.MainActivity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import yishaiAndOriya.example.transportation1.R;
 
 public class MainActivity extends AppCompatActivity {
 
